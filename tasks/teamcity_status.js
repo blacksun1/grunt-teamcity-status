@@ -8,7 +8,7 @@
 
 'use strict';
 
-var Reporter = require('./teamcity-reporter.js'),
+var Reporter = require('../lib/teamcity-reporter.js'),
   fs = require('fs');
 
 module.exports = function (grunt) {
