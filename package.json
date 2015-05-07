@@ -1,7 +1,7 @@
 {
   "name": "grunt-teamcity-status",
   "description": "Module to publish information to Teamcity about the application being built.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/blacksun1/grunt-teamcity-status",
   "author": {
     "name": "Simon Bruce",
@@ -19,6 +19,13 @@
       "type": "MIT",
       "url": "https://github.com/blacksun1/grunt-teamcity-status/blob/master/LICENSE"
     }
+  ],
+  "keywords": [
+    "gruntplugin"
+  ],
+  "files": [
+    "tasks",
+    "LICENSE-MIT"
   ],
   "engines": {
     "node": ">= 0.8.0"
