@@ -38,4 +38,5 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks('grunt-contrib-nodeunit');
 
   grunt.registerTask('default', ['teamcity_status']);
+  grunt.registerTask('test', ['nodeunit']);
 };
