@@ -18,8 +18,8 @@ module.exports = function (grunt) {
   grunt.registerTask('teamcity_status',
     'Module to publish information to Teamcity about the application being built.', function () {
       var reporter = new Reporter(),
-        packageJson = fs.readFileSync('./package.json'),
-        version = JSON.parse(packageJson).version;
+        packageJson = grunt.file.readJSON('./package.json'),
+        version = packageJson.version;
 
       reporter.setParamater('APPLICATION_SEMVER', version);
     });

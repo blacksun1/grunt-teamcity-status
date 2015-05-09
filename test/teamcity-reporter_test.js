@@ -1,7 +1,7 @@
 /*globals test*/
 'use strict';
 
-var Reporter = require('../tasks/teamcity-reporter.js');
+var Reporter = require('../lib/teamcity-reporter.js');
 
 /*
   ======== A Handy Little Nodeunit Reference ========

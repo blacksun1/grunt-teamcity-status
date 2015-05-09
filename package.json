@@ -1,6 +1,6 @@
 {
   "name": "grunt-teamcity-status",
-  "description": "Module to publish information to Teamcity about the application being built.",
+  "description": "Module to publish the version of the package (from package.json) to Teamcity.",
   "version": "1.0.0",
   "homepage": "https://github.com/blacksun1/grunt-teamcity-status",
   "author": {
@@ -21,11 +21,13 @@
     }
   ],
   "keywords": [
-    "gruntplugin"
+    "gruntplugin", "teamcity"
   ],
   "files": [
     "tasks",
-    "LICENSE"
+    "lib",
+    "LICENSE",
+    "README.md"
   ],
   "engines": {
     "node": ">= 0.8.0"
