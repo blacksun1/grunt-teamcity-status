@@ -2,6 +2,8 @@
 
 > Module to publish information to Teamcity about the application being built.
 
+[![Build Status](https://drone.io/github.com/blacksun1/grunt-teamcity-status/status.png)](https://drone.io/github.com/blacksun1/grunt-teamcity-status/latest)
+
 ## Getting Started
 
 This plugin requires Grunt `~0.4.5`
