@@ -2,7 +2,7 @@
 
 > Module to publish information to Teamcity about the application being built.
 
-[![Build Status](https://drone.io/github.com/blacksun1/grunt-teamcity-status/status.png)](https://drone.io/github.com/blacksun1/grunt-teamcity-status/latest)
+[![Build Status](https://drone.io/github.com/blacksun1/grunt-teamcity-status/status.png)](https://drone.io/github.com/blacksun1/grunt-teamcity-status/latest) [![Dependencies](https://david-dm.org/blacksun1/grunt-teamcity-status.svg)](https://david-dm.org/blacksun1/grunt-teamcity-status)
 
 ## Getting Started
 
