@@ -2,7 +2,7 @@
 
 > Module to publish information to Teamcity about the application being built.
 
-[![Build Status](https://snap-ci.com/blacksun1/teamcity-package-reporter/branch/master/build_image)](https://snap-ci.com/blacksun1/teamcity-package-reporter/branch/master)
+[![Build Status](https://snap-ci.com/blacksun1/grunt-teamcity-status/branch/master/build_image)](https://snap-ci.com/blacksun1/grunt-teamcity-status/branch/master)
 [![Dependencies](https://david-dm.org/blacksun1/grunt-teamcity-status.svg)](https://david-dm.org/blacksun1/grunt-teamcity-status)
 [![devDependency Status](https://david-dm.org/blacksun1/grunt-teamcity-status/dev-status.svg)](https://david-dm.org/blacksun1/grunt-teamcity-status#info=devDependencies)
 
