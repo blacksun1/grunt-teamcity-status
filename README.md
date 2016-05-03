@@ -2,7 +2,9 @@
 
 > Module to publish information to Teamcity about the application being built.
 
-[![Build Status](https://drone.io/github.com/blacksun1/grunt-teamcity-status/status.png)](https://drone.io/github.com/blacksun1/grunt-teamcity-status/latest) [![Dependencies](https://david-dm.org/blacksun1/grunt-teamcity-status.svg)](https://david-dm.org/blacksun1/grunt-teamcity-status)
+[![Build Status](https://snap-ci.com/blacksun1/teamcity-package-reporter/branch/master/build_image)](https://snap-ci.com/blacksun1/teamcity-package-reporter/branch/master)
+[![Dependencies](https://david-dm.org/blacksun1/grunt-teamcity-status.svg)](https://david-dm.org/blacksun1/grunt-teamcity-status)
+[![devDependency Status](https://david-dm.org/blacksun1/grunt-teamcity-status/dev-status.svg)](https://david-dm.org/blacksun1/grunt-teamcity-status#info=devDependencies)
 
 ## Getting Started
 
